@@ -45,3 +45,10 @@ It's easy to get started with Chart.js. All that's required is the script includ
 - The < canvas> element is only a container for graphics. You must use a script to actually draw the graphics.
 
 - Canvas has several methods for drawing paths, boxes, circles, text, and adding images.
+
+# Applying styles and colors:
+<If we want to apply colors to a shape,there are two important properties we can use: fillStyle and strokeStyle.
+
+fillStyle = color:Sets the style used when filling shapes.
+
+***strokeStyle = color:Sets the style for shapes’ outline
