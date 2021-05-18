@@ -52,3 +52,4 @@ It's easy to get started with Chart.js. All that's required is the script includ
 fillStyle = color:Sets the style used when filling shapes.
 
 ***strokeStyle = color:Sets the style for shapes’ outline
+
